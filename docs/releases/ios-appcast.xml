@@ -3,10 +3,16 @@
     <channel>
         <title>Katedra: Pilotazaleen Kiniela</title>
         <item>
+            <title>Version 0.1.6</title>
+            <description>Test jeje.</description>
+            <pubDate>Wed, 02 Apr 2025 11:00:00 +0000</pubDate>
+            <enclosure url="https://itunes.apple.com/lookup?bundleId=com.katedra.katedrapk" sparkle:version="0.1.6" sparkle:os="ios" />
+        </item>
+        <item>
             <title>Version 0.1.5</title>
             <description>Test upgrader app cast.</description>
             <pubDate>Sun, 31 Mar 2025 19:00:00 +0000</pubDate>
-            <enclosure url="https://itunes.apple.com/lookup?bundleId=com.katedra.katedrapk" sparkle:version="0.1.4" sparkle:os="android" />
+            <enclosure url="https://itunes.apple.com/lookup?bundleId=com.katedra.katedrapk" sparkle:version="0.1.4" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
