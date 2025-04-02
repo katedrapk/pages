@@ -6,7 +6,7 @@
             <title>Version 0.1.6</title>
             <description>Test jeje.</description>
             <pubDate>Wed, 02 Apr 2025 11:00:00 +0000</pubDate>
-            <enclosure url="https://beta.itunes.apple.com/v1/app/com.katedra.katedrapk" sparkle:version="0.1.7" sparkle:os="iOS" />
+            <enclosure url="itms-beta://beta.itunes.apple.com/v1/app/com.katedra.katedrapk" sparkle:version="0.1.7" sparkle:os="iOS" />
         </item>
         <item>
             <title>Version 0.1.5</title>
