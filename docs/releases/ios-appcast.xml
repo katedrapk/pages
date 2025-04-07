@@ -3,14 +3,14 @@
     <channel>
         <title>Katedra: Pilotazaleen Kiniela</title>
         <item>
+            <title>Version 0.2.5</title>
+            <description>Nueva versión.</description>
+            <enclosure url="itms-beta://beta.itunes.apple.com/v1/app/com.katedra.katedrapk" sparkle:version="0.2.5" sparkle:os="iOS" />
+        </item>
+        <item>
             <title>Version 0.2.2</title>
             <description>Se arregla error en partidos.</description>
             <enclosure url="itms-beta://beta.itunes.apple.com/v1/app/com.katedra.katedrapk" sparkle:version="0.2.2" sparkle:os="iOS" />
-        </item>
-        <item>
-            <title>Version 0.2.1</title>
-            <description>Nueva versión.</description>
-            <enclosure url="itms-beta://beta.itunes.apple.com/v1/app/com.katedra.katedrapk" sparkle:version="0.2.1" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
