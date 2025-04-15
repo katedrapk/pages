@@ -3,11 +3,6 @@
     <channel>
         <title>Katedra: Pilotazaleen Kiniela</title>
         <item>
-            <title>Version 1.0.3</title>
-            <description>Nueva versión.</description>
-            <enclosure url="https://itunes.apple.com/lookup?bundleId=com.katedra.katedrapk" sparkle:version="1.0.3" sparkle:os="iOS" />
-        </item>
-        <item>
             <title>Version 1.0.0</title>
             <description>Nueva versión.</description>
             <enclosure url="itms-beta://beta.itunes.apple.com/v1/app/com.katedra.katedrapk" sparkle:version="1.0.0" sparkle:os="iOS" />
