@@ -3,14 +3,14 @@
     <channel>
         <title>Katedra: Pilotazaleen Kiniela</title>
         <item>
+             <title>Version 1.1.2</title>
+             <description>Clasificación Katedra.</description>
+             <enclosure url="https://apps.apple.com/app/id6742791750" sparkle:version="1.1.2" sparkle:os="iOS" />
+        </item>
+        <item>
              <title>Version 1.0.4</title>
              <description>Nueva versión.</description>
              <enclosure url="https://apps.apple.com/app/id6742791750" sparkle:version="1.0.4" sparkle:os="iOS" />
-        </item>
-        <item>
-             <title>Version 1.0.3</title>
-             <description>Nueva versión.</description>
-             <enclosure url="https://apps.apple.com/app/id6742791750" sparkle:version="1.0.3" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
