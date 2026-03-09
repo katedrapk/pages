@@ -3,9 +3,9 @@
     <channel>
         <title>Katedra: Pilotazaleen Kiniela</title>
         <item>
-             <title>Version 2.1.3</title>
+             <title>Version 2.2.1</title>
              <description>Nueva versión.</description>
-             <enclosure url="https://apps.apple.com/app/id6742791750" sparkle:version="2.1.3" sparkle:os="iOS" />
+             <enclosure url="https://apps.apple.com/app/id6742791750" sparkle:version="2.2.1" sparkle:os="iOS" />
         </item>
     </channel>
 </rss>
